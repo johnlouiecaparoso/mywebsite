@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="100%" height="100%" fill="#1a202c"/>
+  <rect x="20" y="20" width="360" height="160" rx="8" fill="#2d3748"/>
+  <!-- Supabase logo style -->
+  <circle cx="80" cy="70" r="20" fill="#3ECF8E"/>
+  <rect x="120" y="50" width="100" height="8" rx="4" fill="#cbd5e0"/>
+  <rect x="120" y="65" width="150" height="6" rx="3" fill="#a0aec0"/>
+  <rect x="120" y="80" width="120" height="6" rx="3" fill="#a0aec0"/>
+  <!-- Database icon -->
+  <ellipse cx="320" cy="140" rx="25" ry="15" fill="#007bff" opacity="0.7"/>
+  <ellipse cx="320" cy="130" rx="25" ry="15" fill="#007bff" opacity="0.8"/>
+  <ellipse cx="320" cy="120" rx="25" ry="15" fill="#007bff"/>
+  <text x="200" y="180" text-anchor="middle" fill="#cbd5e0" font-family="Arial, sans-serif" font-size="14">Supabase Guide</text>
+</svg>

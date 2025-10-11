@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="100%" height="100%" fill="#1a202c"/>
+  <rect x="20" y="20" width="360" height="160" rx="8" fill="#2d3748"/>
+  <!-- Career ladder -->
+  <rect x="80" y="140" width="40" height="20" rx="4" fill="#4a5568"/>
+  <rect x="100" y="115" width="40" height="20" rx="4" fill="#007bff"/>
+  <rect x="120" y="90" width="40" height="20" rx="4" fill="#28a745"/>
+  <rect x="140" y="65" width="40" height="20" rx="4" fill="#ffc107"/>
+  <!-- Arrow going up -->
+  <polygon points="200,150 220,130 240,150" fill="#dc3545"/>
+  <rect x="210" y="130" width="20" height="30" fill="#dc3545"/>
+  <!-- Success icon -->
+  <circle cx="320" cy="80" r="25" fill="#28a745"/>
+  <polyline points="310,80 318,88 335,71" stroke="white" stroke-width="3" fill="none"/>
+  <text x="200" y="180" text-anchor="middle" fill="#cbd5e0" font-family="Arial, sans-serif" font-size="14">Career Growth</text>
+</svg>

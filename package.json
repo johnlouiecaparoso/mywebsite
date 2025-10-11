@@ -1,0 +1,17 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This is a minimal, responsive personal website scaffold built with Bootstrap 5 and plain HTML/CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8000 --open=./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
